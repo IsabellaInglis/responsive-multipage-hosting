@@ -1,5 +1,13 @@
 body {
-  background: rgba(248, 189, 238, 0.77);
+  background: #f8e7a5;
+}
+
+h1,
+p {
+  display: block;
+  text-align: center;
+  max-width: 100%;
+  padding: 0 30px;
 }
 
 p {
@@ -7,7 +15,7 @@ p {
 }
 
 a {
-  color: purple;
+  color: green;
 }
 
 .link {
@@ -16,4 +24,5 @@ a {
 
 .crossaint-grid-image {
   max-width: 100%;
+  padding: 20px 0;
 }
